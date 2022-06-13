@@ -6,4 +6,4 @@
 
 This assignment required choosing an image data set and building a classification model using fastai and transfer learning.
 
-Another version of this model resides on [Kaggle](https://www.kaggle.com/code/goryan/butterfly-image-classifier-fastai-96-3-acc)
+Another [version](https://www.kaggle.com/code/goryan/butterfly-image-classifier-fastai-96-3-acc) of this model resides on Kaggle.
