@@ -1,4 +1,4 @@
-# Identify Butterfly Species From Photos
+# Identifying Butterfly Species From Photos
 
 **Project description:** Homework Assignment for EAI 6010 – Applications of Artificial Intelligence
 
